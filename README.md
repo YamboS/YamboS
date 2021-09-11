@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @YamboS
-- 👀 I’m interested in learning how to use github and contribute to some projects.
+- 👋 Hi, I’m @Sam
 - 🌱 I’m currently learning to create a few projects 
-- 💞️ I’m looking to collaborate on nothing specific just where ever I can help and learn.
 - 📫 How to reach me my email is syambo@yahoo.com
 
 <!---
